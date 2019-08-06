@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4004272b-bb55-4f11-b366-f3d3bdfce79a" name="Default Changelist" comment="" />
+    <list default="true" id="4004272b-bb55-4f11-b366-f3d3bdfce79a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/ocj-pager/ocj-pager.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/ocj-popover/ocj-popover.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/ocj-select-trans/ocj-select-trans.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/ocj-tree/ocj-tree.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ocj-public.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ocj-public.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/ocj-public.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/ocj-public.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/demo.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/ocj-table/ocj-table.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/ocj-table/ocj-table.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,64 +31,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../ocj-public/package.json">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
+            <state relative-caret-position="53">
               <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ocj-public/webpack.config.js">
+        <entry file="file://$PROJECT_DIR$/src/component/ocj-table/ocj-table.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
-              <caret line="55" column="58" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ocj-public/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="54">
-                <caret line="2" selection-start-line="2" selection-end-line="2" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ocj-public/.npmignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ocj-public/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ocj-public/dist/ocj-public.min.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ocj-public/src/component/ocj-table/ocj-table.vue">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ocj-public/src/common/demo.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            <state relative-caret-position="434">
+              <caret line="90" column="9" lean-forward="true" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -86,9 +58,12 @@
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
-      <dir>$PROJECT_DIR$/../ocj-public/src</dir>
-      <dir>$PROJECT_DIR$/../ocj-public</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,58 +72,89 @@
         <option value="$PROJECT_DIR$/src/component/index.vue" />
         <option value="$PROJECT_DIR$/src/component/demo1/index.vue" />
         <option value="$PROJECT_DIR$/src/component/index1.vue" />
-        <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/component/style.scss" />
         <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/src/common/demo.scss" />
+        <option value="$PROJECT_DIR$/src/component/style.scss" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/common/font.scss" />
+        <option value="$PROJECT_DIR$/src/common/module.scss" />
+        <option value="$PROJECT_DIR$/src/component/ocj-popover/ocj-popover.vue" />
+        <option value="$PROJECT_DIR$/src/common/index.scss" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/../ocj-public/src/common/demo.scss" />
-        <option value="$PROJECT_DIR$/../ocj-public/src/component/style.scss" />
-        <option value="$PROJECT_DIR$/../ocj-public/README.md" />
-        <option value="$PROJECT_DIR$/../ocj-public/src/index.js" />
-        <option value="$PROJECT_DIR$/../ocj-public/package.json" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/component/ocj-table/ocj-table.vue" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="64" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
-    <option name="width" value="1616" />
+    <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="npm-package-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocj-public" type="462c0819:PsiDirectoryNode" />
+              <item name="ocj-public" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/ocj-public" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
-              <item name="npm-package-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocj-public" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="ocj-public" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/ocj-public" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="npm-package-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocj-public" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ocj-public" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/ocj-public" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="component" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="npm-package-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocj-public" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="ocj-public" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/ocj-public" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="component" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ocj-pager" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="npm-package-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ocj-public" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
+              <item name="ocj-public" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/ocj-public" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="component" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ocj-popover" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ocj-public" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/ocj-public" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="component" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ocj-select-trans" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ocj-public" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/ocj-public" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="component" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ocj-table" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ocj-public" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/ocj-public" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="component" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ocj-tree" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -157,17 +163,20 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/component" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/component" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/component" />
       <recent name="$PROJECT_DIR$/src/component/demo" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -195,17 +204,21 @@
       <option name="presentableId" value="Default" />
       <updated>1565022974726</updated>
       <workItem from="1565022976005" duration="2607000" />
-      <workItem from="1565026013541" duration="4420000" />
+      <workItem from="1565026013541" duration="5059000" />
+      <workItem from="1565058277866" duration="56000" />
+      <workItem from="1565058346650" duration="4966000" />
+      <workItem from="1565072106931" duration="135000" />
+      <workItem from="1565076206097" duration="1805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7027000" />
+    <option name="totallyTimeSpent" value="14628000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="23" width="1616" height="1027" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24968554" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24002418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -219,7 +232,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32969433" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31425598" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -231,55 +244,23 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/component/index.js" />
     <entry file="file://$PROJECT_DIR$/src/component/identify/index.js" />
-    <entry file="file://$PROJECT_DIR$/dist/toast.min.js">
+    <entry file="file://$PROJECT_DIR$/dist/toast.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/component/demo/index.vue" />
+    <entry file="file://$PROJECT_DIR$/src/component/index.vue" />
+    <entry file="file://$PROJECT_DIR$/src/component/demo1/index.vue" />
+    <entry file="file://$PROJECT_DIR$/src/component/index1.vue" />
+    <entry file="file://$PROJECT_DIR$/src/common/base.css" />
+    <entry file="file://$PROJECT_DIR$/src/component/style.scss" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/component/demo/index.vue">
+    <entry file="file://$PROJECT_DIR$/.npmignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/component/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2012">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/component/demo1/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="47" column="6" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/component/index1.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ocj-public/src/component/ocj-table/ocj-table.vue">
+    <entry file="file://$PROJECT_DIR$/dist/ocj-public.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ocj-public/src/common/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3440" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ocj-public/.npmignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ocj-public/src/common/demo.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ocj-public/src/component/style.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ocj-public/README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="54">
@@ -289,26 +270,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ocj-public/webpack.config.js">
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1485">
           <caret line="55" column="58" selection-start-line="55" selection-start-column="58" selection-end-line="55" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ocj-public/dist/ocj-public.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ocj-public/src/index.js">
+    <entry file="file://$PROJECT_DIR$/src/common/module.scss" />
+    <entry file="file://$PROJECT_DIR$/src/common/font.scss" />
+    <entry file="file://$PROJECT_DIR$/src/common/common.scss" />
+    <entry file="file://$PROJECT_DIR$/src/component/ocj-select-trans/ocj-select-trans.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="27">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ocj-public/package.json">
+    <entry file="file://$PROJECT_DIR$/src/component/ocj-pager/ocj-pager.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
+        <state relative-caret-position="351">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/ocj-tree/ocj-tree.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/ocj-popover/ocj-popover.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5238">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <folding>
+            <element signature="e#19#524#0" />
+            <element signature="e#1235#2422#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/ocj-table/ocj-table.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="90" column="9" lean-forward="true" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
           <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>

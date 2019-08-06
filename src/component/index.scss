@@ -1,0 +1,189 @@
+// 字体文件
+@font-face {
+	font-family: 'o-icon';  /* project id 1252283 */
+
+	src: url('//at.alicdn.com/t/font_1252283_lrlzrk3b7l.eot');
+	src: url('//at.alicdn.com/t/font_1252283_lrlzrk3b7l.eot?#iefix') format('embedded-opentype'),
+	url('//at.alicdn.com/t/font_1252283_lrlzrk3b7l.woff2') format('woff2'),
+	url('//at.alicdn.com/t/font_1252283_lrlzrk3b7l.woff') format('woff'),
+	url('//at.alicdn.com/t/font_1252283_lrlzrk3b7l.ttf') format('truetype'),
+	url('//at.alicdn.com/t/font_1252283_lrlzrk3b7l.svg#iconfont') format('svg');
+}
+.o-icon {
+	font-family: "o-icon" !important;
+	font-size: 16px;
+	font-style: normal;
+
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-stroke-width: .2px;
+}
+
+// popover弹窗
+.popover.el-popper {
+	padding: 16px;
+	.el-button--primary.popover-primary {
+		background-color: #0c66ff;
+		border: 1px solid #0c66ff;
+	}
+	.el-button--primary.popover-success {
+		background-color: #0bb07b;
+		border: 1px solid #0bb07b;
+	}
+	.el-button--primary.popover-error {
+		background-color: #f03d3d;
+		border: 1px solid #f03d3d;
+	}
+	.el-button--primary.popover-warning {
+		background-color: #ffad0d;
+		border: 1px solid #ffad0d;
+	}
+}
+
+// selectTrans
+.selectTrans {
+	.searchBlock {
+		height: 430px;
+		overflow: hidden;
+		overflow-x: auto;
+
+		-webkit-scrollbar {
+			display: none;
+		}
+
+		white-space:nowrap;
+	}
+
+	.listBlock {
+		width: 220px;
+		height: 430px;
+		vertical-align: top;
+		// width:250px;
+		display: inline-block;
+		border-right: 1px solid #E8E8E8;
+		box-sizing: border-box;
+
+		&:last-child {
+			border-right: none;
+		}
+
+		.searchList {
+			width: 100%;
+			margin-top: 25px;
+
+			.el-input__inner {
+				font-size: 12px;
+			}
+
+			.el-autocomplete-suggestion li {
+				font-size: 12px !important;
+			}
+		}
+
+		.searchItemList {
+			width: 100%;
+
+			div {
+				height: 34px;
+				line-height: 32px;
+				font-size: 12px;
+				color: #53627C;
+				box-sizing: border-box;
+				cursor: pointer;
+			}
+
+			div:hover {
+				background-color: #EBF5FF;
+				border-left: 4px solid #0B69FF;
+				padding-left: 12px;
+				color: #0A1F44;
+			}
+
+			.activeSelect {
+				background-color: #EBF5FF;
+				border-left: 4px solid #0B69FF;
+				padding-left: 12px;
+				color: #0A1F44;
+			}
+
+			span {
+				line-height: 34px;
+			}
+
+			.searchItemList-text {
+				width: 150px;
+			}
+		}
+
+	}
+
+	.breadcrumb {
+		line-height: 32px;
+		background-color: #EBF5FF;
+		border-radius: 4px;
+	}
+}
+
+.w-100 {
+	width: 100%;
+}
+.h-100 {
+	height: 100%;
+}
+.line-height-0 {
+	line-height: 0;
+}
+.line-height-12 {
+	line-height: 12px;
+}
+.line-height-14 {
+	line-height: 12px;
+}
+.line-height-16 {
+	line-height: 16px;
+}
+// 颜色透明
+.color-tran {
+	color: transparent;
+}
+// 溢出auto
+.over-auto{
+	overflow: auto;
+}
+// 溢出隐藏
+.over-hidden{
+	overflow: hidden;
+}
+
+// alert样式重置
+.el-alert {
+	box-shadow: none;
+}
+.el-alert--info.is-light{
+	background: #EBF5FF;
+	.el-alert__icon{
+		color: #0C66FF;
+	}
+}
+// 删除线
+.delete-text {
+	text-decoration: line-through;
+}
+
+.border-left-title {
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 22px;
+
+	display: flex;
+	align-items: center;
+
+	height: 18px;
+	padding-left: 8px;
+
+	color: rgba(10,31,68,1);
+	border-left: 4px solid #0C66FF;
+}
+.el-main{
+	position: relative;
+}
